@@ -1,0 +1,10 @@
+F:\C#\C#_HDT\Ve_Hinh\Ve_Hinh\obj\Debug\Ve_Hinh.csprojAssemblyReference.cache
+F:\C#\C#_HDT\Ve_Hinh\Ve_Hinh\obj\Debug\Ve_Hinh.Form1.resources
+F:\C#\C#_HDT\Ve_Hinh\Ve_Hinh\obj\Debug\Ve_Hinh.Properties.Resources.resources
+F:\C#\C#_HDT\Ve_Hinh\Ve_Hinh\obj\Debug\Ve_Hinh.csproj.GenerateResource.cache
+F:\C#\C#_HDT\Ve_Hinh\Ve_Hinh\obj\Debug\Ve_Hinh.csproj.CoreCompileInputs.cache
+F:\C#\C#_HDT\Ve_Hinh\Ve_Hinh\bin\Debug\Ve_Hinh.exe.config
+F:\C#\C#_HDT\Ve_Hinh\Ve_Hinh\bin\Debug\Ve_Hinh.exe
+F:\C#\C#_HDT\Ve_Hinh\Ve_Hinh\bin\Debug\Ve_Hinh.pdb
+F:\C#\C#_HDT\Ve_Hinh\Ve_Hinh\obj\Debug\Ve_Hinh.exe
+F:\C#\C#_HDT\Ve_Hinh\Ve_Hinh\obj\Debug\Ve_Hinh.pdb
